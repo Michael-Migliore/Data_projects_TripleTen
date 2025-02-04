@@ -5,18 +5,17 @@
 The project analyzes Zomato’s 2018-2019 sales to identify trends and optimize performance. As the Business Intelligence Analyst, the focus is on Tableau dashboards and data insights. The Data Analyst ensures data accuracy, the Business Strategist drives demand recovery, Marketing optimizes campaigns, and Operations enhances logistics. The goal is to improve forecasting, customer engagement, and revenue.  
 
 
-[<img src="https://github.com/Michael-Migliore/Data_projects_TripleTen/blob/main/Images/Zomato%20Sales%20Analysis%20%7C%20Tableau%20Public.html" alt="First Sheet of Project**">](https://public.tableau.com/views/ZomatoSalesAnalysis_17378150168530/Dashboard22?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+[<img src="https://github.com/Michael-Migliore/Data_projects_TripleTen/blob/main/Images/Zomato%20Dashboard.png" alt="First Sheet of Project**">](https://public.tableau.com/views/ZomatoSalesAnalysis_17378150168530/Dashboard22?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>  
-Project can be found <a href='URL HERE’><u>here</u>.</a>  
-Raw Data can be found <a href='URL HERE'><u>here</u>.</a>  
+  
+Project can be found <a href="https://public.tableau.com/views/ZomatoSalesAnalysis_17378150168530/Dashboard22?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><u>here</u>.</a>  
+Raw Data can be found <a href="https://drive.google.com/drive/folders/1KXcrqVbO85_mU9ml4afypz7J0j_wHm8z?usp=drive_link"><u>here</u>.</a>  
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 1 | [Final Project Report](https://github.com/Michael-Migliore/Data_projects_TripleTen/blob/main/Zomato%20Sales%20Analysis/FINAL%20PROJECT%20REPORT%20(Updated).pdf) | PDF report of the Tableau project |
+| 2 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE || 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README

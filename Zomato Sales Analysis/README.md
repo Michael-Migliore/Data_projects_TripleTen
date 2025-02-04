@@ -5,7 +5,7 @@
 The project analyzes Zomato’s 2018-2019 sales to identify trends and optimize performance. As the Business Intelligence Analyst, the focus is on Tableau dashboards and data insights. The Data Analyst ensures data accuracy, the Business Strategist drives demand recovery, Marketing optimizes campaigns, and Operations enhances logistics. The goal is to improve forecasting, customer engagement, and revenue.  
 
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OF DESTINATION)  
+[<img src="https://github.com/Michael-Migliore/Data_projects_TripleTen/blob/main/Images/Zomato%20Sales%20Analysis%20%7C%20Tableau%20Public.html" alt="First Sheet of Project**">](https://public.tableau.com/views/ZomatoSalesAnalysis_17378150168530/Dashboard22?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>  
 Project can be found <a href='URL HERE’><u>here</u>.</a>  

@@ -1,1 +1,23 @@
-List of contextual requirements
+Sprint 7: Final Project Recap
+
+Objective:
+	•	Act as a junior analyst during an onboarding process at a tech company (Zomato).
+	•	Independently research and analyze a business problem using provided datasets.
+	•	Create a dashboard and report/presentation summarizing key findings and recommendations.
+Project Stages:
+	1.	Decomposition (Planning)
+	•	Choose one of three analysis types:
+	•	Customer Analysis (segmentation, behavior, etc.)
+	•	Restaurant Analysis (popularity, revenue, etc.)
+	•	Sales Analysis (trends, KPIs, revenue distribution).
+	•	Develop a structured research plan with questions, hypotheses, and visualizations.
+	•	Submit the plan for team leader approval.
+	2.	Execution & Final Submission
+	•	Analyze the selected dataset(s) and create a dashboard using Tableau or Power BI.
+	•	Write a report or presentation with key findings and business recommendations.
+	•	Submit the final project for team leader review.
+Deliverables:
+
+✅ Decomposition Plan – Research structure, hypotheses, and dashboard components.
+✅ Dashboard – Must tell a data-driven story relevant to your analysis.
+✅ Report/Presentation – Summarizes insights, conclusions, and business recommendations.

@@ -15,8 +15,8 @@ Raw Data can be found <a href="https://drive.google.com/drive/folders/1KXcrqVbO8
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Final Project Report](https://github.com/Michael-Migliore/Data_projects_TripleTen/blob/main/Zomato%20Sales%20Analysis/FINAL%20PROJECT%20REPORT%20(Updated).pdf) | PDF report of the Tableau project |
-| 2 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE || 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](https://github.com/Michael-Migliore/Data_projects_TripleTen/blob/main/Zomato%20Sales%20Analysis/Requirments.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |

@@ -30,15 +30,20 @@ Raw Data can be found <a href="https://drive.google.com/drive/folders/1KXcrqVbO8
 | [Notes](LINK) | Lists any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+- Tableau, 7 sheets
+- Word, 5 pages
+- Including visualisations, KPIs, calculated fields, dashboard, filters.
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+1.	Choose a Focus Area – Select Customer, Restaurant, or Sales Analysis based on Zomato’s business problem.
+2.	Plan Your Research – Create a decomposition plan outlining hypotheses, metrics, and dashboard components.
+3.	Analyze Data & Build Dashboard – Use provided datasets to extract insights and create a story-driven dashboard in Tableau/Power BI.
+4.	Summarize Findings – Compile insights, conclusions, and business recommendations in a report or presentation.
+5.	Submit & Get Feedback – Share your work with the team leader for review and approval.
 
 #### Data
 DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
+- `'orders'`: 
     - `'FIELD NAME'`: DESCRIPTION HERE
 
 #### Assumptions:
